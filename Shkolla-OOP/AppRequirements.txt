@@ -1,0 +1,25 @@
+﻿Shkollat e ciklit të ulët
+
+Faza I
+Të krijohet një aplikacion përmes të cilit modelohet aktiviteti i një shkolle të ciklit të ulët. Aplikacioni të
+modelohet përmes klasave të nevojshme dhe të realizojë funksionet si në vijim:
+- Regjistrimin e një nxënësi,
+- Regjistrimi i notave të nxënësve,
+- Regjistrimi i mësimdhënësve,
+- Regjistrimi i lëndëve,
+- Nxjerrja e mesatareve të nxënësve dhe
+- Nxjerrja e statistikave të nxënësve sipas suksesit të tyre në mësime.
+
+Faza II
+Aplikacioni për shkollat e ciklit të ulët të zgjerohet edhe për përdorim për shkollat e mesme dhe universitet.
+Aplikacioni të modelohet përmes klasave të nevojshme dhe duhet të jetë ne gjendje të gjenerojë:
+- Raportin për suksesin e çdo nxënësi/student për secilin cikël mësimor,
+- Raportin për numrin e nëxënësve/studentëvë të kategorizuar sipas vitit akademik,
+- drejtimit, etj.,
+- Gjenerimin e afateve të provimeve,
+- Regjistrimin e lëndëve për afatin përkatës,
+- Paraqitjen e provimeve nga studentët,
+- Paraqitjen e raporteve të ndryshme për studentë (cilat provime i ka dhënë një student i
+- caktuar, etj.)
+- Nxjerrjen e raporteve për lëndët (sa studentë e kanë dhënë provimin në një lëndë të
+- caktuar, etj.).
